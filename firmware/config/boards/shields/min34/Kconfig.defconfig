@@ -1,0 +1,16 @@
+if SHIELD_MIN34_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "min34 split keyboard"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_MIN34_LEFT || SHIELD_MIN34_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

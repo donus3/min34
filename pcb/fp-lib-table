@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "${KIPRJMOD}/assets/SofleKeyboard-footprint.pretty")(options "")(descr ""))
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/assets/xiao")(options "")(descr ""))
+  (lib (name "Kicad-Footprints-main")(type "KiCad")(uri "${KIPRJMOD}/Kicad-Footprints-main")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd-master/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
