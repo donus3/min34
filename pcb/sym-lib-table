@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/assets/xiao/xiao.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/assets/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "SofleKeyboard-cache")(type "Legacy")(uri "${KIPRJMOD}/assets/SofleKeyboard-cache.lib")(options "")(descr ""))
+)

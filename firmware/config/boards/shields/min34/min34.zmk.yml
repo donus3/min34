@@ -1,0 +1,11 @@
+file_format: "1"
+id: min34
+name: min34
+type: shield
+url: https://github.com/donus3/min34
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - min34_left
+  - min34_right

@@ -1,0 +1,13 @@
+manifest:
+  remotes:
+    - name: min34
+      url-base: https://github.com/donus3/min34
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
+  projects:
+    - name: zmk
+      remote: zmkfirmware
+      revision: main
+      import: app/west.yml
+  self:
+    path: config
