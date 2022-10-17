@@ -36,9 +36,11 @@ Please refer to [min34 zmk config](./firmware)
  - [crkbd](https://github.com/foostan/crkbd)
  - [Slice36](https://github.com/MReavley/Slice36)
  - [Sweep](https://github.com/davidphilipbarr/Sweep)
+ - Seeed xiao nrf52840 mcu: https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html
+ - Seeed Fusion PCBA service: https://www.seeedstudio.com/pcb-assembly.html
+ - Seeed Fusion DIY Mechanical Keyboard contest: https://www.seeedstudio.com/seeed-fusion-diy-xiao-mechanical-keyboard-contest.html
 
 ## Gallery
-
 ![wireless](https://github.com/donus3/min34/blob/main/images/wireless.jpg?raw=true)
 ![wire](https://github.com/donus3/min34/blob/main/images/wire.jpg?raw=true)
 ![back](https://github.com/donus3/min34/blob/main/images/back.jpg?raw=true)
