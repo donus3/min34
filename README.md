@@ -41,6 +41,9 @@ Please refer to [min34 zmk config](./firmware)
  - Seeed Fusion DIY Mechanical Keyboard contest: https://www.seeedstudio.com/seeed-fusion-diy-xiao-mechanical-keyboard-contest.html
 
 ## Gallery
-![wireless](https://github.com/donus3/min34/blob/main/images/wireless.jpg?raw=true)
-![wire](https://github.com/donus3/min34/blob/main/images/wire.jpg?raw=true)
-![back](https://github.com/donus3/min34/blob/main/images/back.jpg?raw=true)
+
+<img src="https://github.com/donus3/min34/blob/main/images/wire-prototype.jpg?raw=true" width="600px" alt="min34-wire" />
+
+<img src="https://github.com/donus3/min34/blob/main/images/no-wire-prototype.jpg?raw=true" width="600px" alt="min34-no-wire" />
+
+<img src="https://github.com/donus3/min34/blob/main/images/back.jpg?raw=true" width="600px" alt="min34-back" />
